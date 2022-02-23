@@ -1,4 +1,4 @@
-Welcome to the repository for "BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders".
+Welcome to the repository for [BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders](https://proceedings.mlr.press/v139/danks21a.html), presented at ICML 2021.
 
 The code provided here builds on the original implementation of BasisVAE by Kaspar
 Märtens in PyTorch, to be found at https://github.com/kasparmartens/BasisVAE.
